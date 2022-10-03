@@ -301,6 +301,9 @@ export function Main(){
                     </Marker>
                 </MapContainer>
                 
+                <div class="footer">
+                      <h1>Made with <font color="red">♥</font> by <a target="_blank" href="https://github.com/smit-in">Smit Patel </a> </h1>
+                  </div>
 
             </Container>
         </MainStyledComponent>
